@@ -60,8 +60,8 @@ client closed...
 
 ```shell
 ubuntu@VM-0-9-ubuntu:~/projects/echo_server$ ./client
-答复是多少打发顺丰的
-recv server data : 答复是多少打发顺丰的
+答复是多少打发的
+recv server data : 答复是多少打发的
 
 抛物线天花板马师傅
 recv server data : 抛物线天花板马师傅
@@ -91,7 +91,7 @@ recv server data : wueriotywtuiero
 
 ```shell
 ubuntu@VM-0-9-ubuntu:~/projects/echo_server$ ./server
-server recv:答复是多少打发顺丰的
+server recv:答复是多少打发的
 
 read finished
 server recv:sdaffffffdfasdfasdf
